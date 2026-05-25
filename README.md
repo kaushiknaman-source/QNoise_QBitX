@@ -190,7 +190,7 @@ How it works:
 
 ### 1. Clone the repository
 
-git clone https://github.com/adityaarulmanalan/QNoise_QBitX.git
+git clone https://github.com/kaushiknaman-source/QNoise_QBitX.git
 cd QNoise_QBitX
 
 ### 2. Install dependencies
@@ -200,7 +200,7 @@ npm install
 npm run dev
 
 ### 4. Open in browser
-http://localhost:5173/
+[http://localhost:5173/](http://192.168.1.12:5173/)
 
 ⚠️ Troubleshooting
 ### Check Node.js version
